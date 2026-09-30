@@ -38,7 +38,7 @@ Este material foi feito para ser consumido no aplicativo **Obsidian**, que permi
 
 ## 👨‍🏫 Autores
 
-- **Marlon Anísio**
+- **Marllon Anísio**
 - **Gustavo Ferreira**
 
 *Criado para a comunidade acadêmica e de desenvolvedores do Instituto Federal da Paraíba (IFPB).*

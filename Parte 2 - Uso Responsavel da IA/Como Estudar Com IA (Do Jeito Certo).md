@@ -5,9 +5,6 @@ aliases: [Estudar com IA, Uso correto da IA]
 
 # Como Estudar Com IA (Do Jeito Certo)
 
-> "A IA é o professor particular mais paciente do mundo. Mas professor não faz lição por você."
-> — Professor Marlon
-
 ## Analogia do Professor
 
 Pensa num personal trainer.

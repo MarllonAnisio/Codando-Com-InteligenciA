@@ -5,9 +5,6 @@ aliases: [Ferramentas de IA, NotebookLM, Gemini]
 
 # 🛠️ Ferramentas de IA para Estudo: NotebookLM, Gemini e ChatGPT
 
-> "Ter as melhores ferramentas não garante o melhor trabalho. Mas saber usá-las bem faz toda a diferença."
-> — Professor Marlon
-
 ## Analogia do Professor
 
 Um carpinteiro profissional tem serras, plainas, formões — cada ferramenta para um propósito específico.

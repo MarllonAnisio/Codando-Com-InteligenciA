@@ -42,7 +42,7 @@ Tópicos:
 
 | Professor | Parte |
 |-----------|-------|
-| **Marlon Anísio** | Parte 1 (25 conceitos) + Parte 2 (Uso responsável) |
+| **Marllon Anísio** | Parte 1 (25 conceitos) + Parte 2 (Uso responsável) |
 | **Gustavo Ferreira** | Conteúdo complementar |
 
 ---

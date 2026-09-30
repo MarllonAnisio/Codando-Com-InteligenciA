@@ -5,9 +5,6 @@ aliases: [Cognitive Surrender, Cognitive Offloading]
 
 # Rendição Cognitiva vs Descarga Cognitiva
 
-> "A questão não é se você usa a IA — é *como* você usa a IA."
-> — Professor Marlon
-
 ## Analogia do Professor
 
 Imagine dois motoristas num dia de chuva:

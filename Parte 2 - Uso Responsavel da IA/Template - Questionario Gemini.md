@@ -5,9 +5,6 @@ aliases: [Questionário, Template de Estudo]
 
 # Template: Questionário com Gemini
 
-> "O melhor teste de aprendizado não é o que o professor aplica — é o que você aplica em si mesmo."
-> — Professor Marlon
-
 ## Analogia do Professor
 
 Pensa num teste de direção. Você pode estudar o manual do DETRAN inteiro — mas a prova real é sentar no carro e mostrar que sabe dirigir.

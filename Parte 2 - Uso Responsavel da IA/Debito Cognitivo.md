@@ -5,9 +5,6 @@ aliases: [Cognitive Debt, Dívida Cognitiva]
 
 # 💳 Débito Cognitivo
 
-> "Você pode entregar muito sem aprender nada. E na hora da conta, os juros são pesados."
-> — Professor Marlon
-
 ## Analogia do Professor
 
 Todo dev conhece **dívida técnica** (*technical debt*):
