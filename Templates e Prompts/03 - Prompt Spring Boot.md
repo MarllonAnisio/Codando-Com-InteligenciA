@@ -16,22 +16,10 @@ Copie o bloco de texto abaixo e cole no Gemini ou ChatGPT.
 ### O Prompt
 
 ```text
-Assuma o papel de um Arquiteto de Software experiente avaliando a minha compreensão do framework Spring Boot.
+me faça um questionário de Spring Boot e tente identificar se eu tenho algum gap de conhecimento e quais sao esses gaps
 
-Gere um questionário técnico focado em cenários reais de criação de APIs REST e funcionamento interno do Spring.
-
-Tópicos obrigatórios:
-- Injeção de Dependências e Inversão de Controle (@Autowired, ciclo de vida de um Bean)
-- Stereotype Annotations (@Component, @Service, @Repository, @Controller)
-- Criação de endpoints REST (@RestController, @GetMapping, @PostMapping, manipulação de DTOs)
-- Tratamento de exceções globais e retornos HTTP corretos (@ControllerAdvice, @ExceptionHandler)
-
-Regras do questionário:
-1. Faça perguntas baseadas em cenários do dia a dia de um dev backend. Exemplo de estilo de pergunta: "Temos uma API de produtos que está retornando erro 500 no banco, como você interceptaria isso para retornar um erro 400 amigável com Spring Boot?"
-2. Envie apenas UMA pergunta de cada vez e espere eu responder.
-3. Se eu citar uma anotação, me pergunte rapidamente o que ela faz por trás dos panos antes de ir para a próxima questão.
-4. Se eu errar feio, não me dê o código pronto. Diga em qual documentação ou conceito eu devo procurar a resposta e peça para tentar de novo.
-5. Inicie me fazendo a primeira pergunta.
+Caso meu conhecimento seja suficiente para responder todas perguntas, me sinalize pois seguirei meus estudos
+Seja analítica nas minhas respostas e veja se há conceitos ou técnicas que faltam eu aprender.
 ```
 
 ---

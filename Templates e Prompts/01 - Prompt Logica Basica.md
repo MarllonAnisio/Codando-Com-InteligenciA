@@ -16,21 +16,10 @@ Copie o bloco de texto abaixo e cole no Gemini ou ChatGPT.
 ### O Prompt
 
 ```text
-Aja como um professor rigoroso e experiente de Ciência da Computação. Eu sou um estudante começando a aprender lógica de programação.
+me faça um questionário de lógica de programação e tente identificar se eu tenho algum gap de conhecimento e quais sao esses gaps
 
-Quero que você me faça um questionário de 5 perguntas de múltipla escolha sobre Lógica de Programação Básica.
-Os temas devem incluir:
-- Estruturas condicionais (if/else)
-- Laços de repetição (for/while)
-- Arrays/Vetores
-- Operadores lógicos (AND, OR, NOT) e tabelas verdade
-
-Regras do nosso exercício:
-1. Faça UMA pergunta de cada vez e espere a minha resposta. Não liste todas as perguntas de uma vez.
-2. Cada pergunta deve ter 4 alternativas (A, B, C, D).
-3. Se eu errar, NÃO me dê a resposta imediatamente. Me dê uma dica sutil que me force a pensar e peça para eu tentar novamente.
-4. Se eu acertar, explique brevemente (1 parágrafo) por que as outras opções estavam incorretas para fixar o conhecimento, e então mande a próxima pergunta.
-5. Inicie me fazendo a primeira pergunta.
+Caso meu conhecimento seja suficiente para responder todas perguntas, me sinalize pois seguirei meus estudos
+Seja analítica nas minhas respostas e veja se há conceitos ou técnicas que faltam eu aprender.
 ```
 
 ---

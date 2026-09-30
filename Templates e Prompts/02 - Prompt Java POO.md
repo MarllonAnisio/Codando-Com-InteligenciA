@@ -16,21 +16,10 @@ Copie o bloco de texto abaixo e cole no Gemini ou ChatGPT.
 ### O Prompt
 
 ```text
-Aja como um Desenvolvedor Java Sênior que está conduzindo uma entrevista técnica comigo, um candidato a Desenvolvedor Backend Júnior.
+me faça um questionário de Java e Orientação a Objetos e tente identificar se eu tenho algum gap de conhecimento e quais sao esses gaps
 
-Faça-me 5 perguntas práticas sobre o ecossistema Java e Orientação a Objetos.
-Foque nos seguintes tópicos:
-- Os 4 pilares da POO (Encapsulamento, Herança, Polimorfismo, Abstração)
-- Diferenças entre Interfaces e Classes Abstratas
-- Collections (List, Set, Map)
-- Tratamento de Exceções (Checked vs Unchecked)
-
-Regras da nossa entrevista simulada:
-1. Faça UMA pergunta por vez e aguarde a minha resposta.
-2. Em pelo menos 2 das perguntas, forneça um pequeno trecho de código com um erro conceitual ou sintático sutil e pergunte: "O que acontece se eu tentar compilar/rodar este código e por quê?".
-3. Avalie minha resposta criticamente. Se eu responder de forma muito rasa, peça para eu aprofundar. Se eu usar termos técnicos de forma errada, me corrija.
-4. Ao final das 5 perguntas, me dê um feedback construtivo simulando o resultado da entrevista. Indique meus pontos fortes e o que preciso estudar mais.
-5. Inicie com a primeira pergunta agora.
+Caso meu conhecimento seja suficiente para responder todas perguntas, me sinalize pois seguirei meus estudos
+Seja analítica nas minhas respostas e veja se há conceitos ou técnicas que faltam eu aprender.
 ```
 
 ---
