@@ -1,0 +1,23 @@
+# Configurações do Obsidian (Ignorar estado de UI local do usuário)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/core-plugins.json
+
+# Arquivos de sistema (Mac/Windows)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Diretórios temporários ou de rascunho (caso você crie localmente)
+/scratch/
+/Imagens/tmp/
+
+# (Opcional) Ignorar PDFs crus se não quiser sobrecarregar o repo do GitHub (remova o '#' se quiser ignorar)
+# *.pdf
